@@ -25,7 +25,7 @@ class gameService {
         // title : title
         title,
         year,
-        price, 
+        price,
         descriptions,
       });
       // Método do mongoose para cadastrar .save()
